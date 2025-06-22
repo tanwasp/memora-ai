@@ -1,2 +1,2 @@
-# memora-ai
-Memora AI is a macOS desktop assistant that transforms how you learn and retain information.
+# Memora AI
+Memora AI is a macOS desktop assistant that transforms how you learn and retain information. Highlight any text on your screen, invoke a shortcut, and ask questions. Memora remembers what you’ve seen and builds a personal memory base, enabling smarter, more context-aware responses over time. It learns what you know, tracks what you struggle with, and helps generate intelligent notes and summaries automatically.
